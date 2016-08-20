@@ -1,0 +1,32 @@
+
+body{
+  background-color: 	LightGoldenRodYellow;
+}
+
+.heading{
+  color: 		Black;
+  font-family: 	Papyrus;
+}
+.center
+{
+    display: inline-block;
+    margin-left: 100px; 
+    margin-right: auto;
+}
+
+.h2k
+{
+  color: 	OrangeRed;
+  font-family: 	Impact;
+}
+
+.h3k{
+  color: ;
+  font-family: Comic Sans MS;
+}
+
+.h4k
+{
+  font-family: 	Webdings; 
+}
+
